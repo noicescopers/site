@@ -1,2 +1,2 @@
 # site
-The noicest website around: *insert web link here*
+The noicest website around: https://noicescopers.github.io/site/
